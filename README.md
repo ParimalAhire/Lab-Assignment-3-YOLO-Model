@@ -133,7 +133,7 @@ Dataset preprocessing included resizing, normalization, and YOLO format annotati
 
 **Model:** YOLOv8n  
 **Epochs:** 10  
-**Image Size:** 416  
+**Image Size:** 416 × 416  
 
 The model detects helmets in images using bounding boxes and confidence scores.
 
@@ -143,7 +143,7 @@ The model detects helmets in images using bounding boxes and confidence scores.
 
 **Model:** YOLOv8n-cls  
 **Epochs:** 8  
-**Image Size:** 224  
+**Image Size:** 224 × 224  
 
 The model classifies animals into their respective categories using transfer learning.
 
@@ -153,7 +153,7 @@ The model classifies animals into their respective categories using transfer lea
 
 **Model:** YOLOv8n-pose  
 **Epochs:** 10  
-**Image Size:** 416  
+**Image Size:** 416 × 416  
 
 The model detects human body keypoints and generates pose skeleton visualizations.
 
@@ -163,7 +163,7 @@ The model detects human body keypoints and generates pose skeleton visualization
 
 **Model:** YOLOv8n-obb  
 **Epochs:** 10  
-**Image Size:** 416  
+**Image Size:** 416 × 416  
 
 The model detects rotated bounding boxes for PCB components.
 
