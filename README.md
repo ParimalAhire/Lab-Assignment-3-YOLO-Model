@@ -261,10 +261,8 @@ python obb/train.py
 - Lightweight YOLOv8 nano models  
 - CPU based training  
 - Roboflow datasets  
-- Transfer learning implementation  
 - Local deployment  
 - Organized modular project structure  
-- No cloud platforms used  
 
 ---
 
