@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ["Helmet"]
+
+roboflow:
+  workspace: parimals-workspace
+  project: helmet-detection-x2yqr-b5rl2
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/parimals-workspace/helmet-detection-x2yqr-b5rl2/dataset/1

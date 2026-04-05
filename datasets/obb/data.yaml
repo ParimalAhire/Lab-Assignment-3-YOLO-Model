@@ -1,0 +1,24 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+names:
+  [
+    "Crystal",
+    "Diode",
+    "IC DS1307",
+    "IC EEPROM",
+    "No Crystal",
+    "No Diode",
+    "No IC DS1307",
+    "No IC EEPROM",
+    "RTC DS1307",
+  ]
+
+roboflow:
+  workspace: parimals-workspace
+  project: obb-blkiy-kcsez
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/parimals-workspace/obb-blkiy-kcsez/dataset/1
