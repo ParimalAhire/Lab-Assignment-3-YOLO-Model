@@ -268,20 +268,6 @@ python obb/train.py
 
 ---
 
-## Assignment Compliance
-
-This project follows all assignment rules:
-
-- No Google Colab used  
-- No Kaggle notebooks used  
-- No cloud GPU used  
-- Work completed on local system  
-- Roboflow datasets used  
-- YOLOv8 nano models used  
-- Deployment demonstrated locally  
-
----
-
 ## Learning Outcomes
 
 Through this project the following concepts were understood:
