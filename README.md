@@ -282,9 +282,3 @@ Through this project the following concepts were understood:
 ## Conclusion
 
 This lab assignment successfully demonstrates the implementation of YOLOv8 models for multiple computer vision tasks. The nano models provide efficient performance while maintaining lightweight deployment capability. The project highlights practical applications of deep learning in real-world computer vision problems.
-
----
-
-## License
-
-This project is developed strictly for academic purposes.
