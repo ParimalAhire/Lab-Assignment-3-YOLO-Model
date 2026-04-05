@@ -14,7 +14,7 @@
 
 ## Group Details
 
-| Student Name | Enrollment Number |
+| Student Name | PRN |
 |--------------|-------------------|
 | Parimal Ahire | 202301040067 |
 | Atharva Suryawanshi | 202301040283 |
