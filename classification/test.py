@@ -1,9 +1,9 @@
 from ultralytics import YOLO
 
-model = YOLO("../models/classification.pt")
+model = YOLO("models/classification.pt")
 
 results = model.predict(
-    source="../test_images/classification",
+    source="test_images/classification",
     save=True
 )
 

@@ -1,9 +1,9 @@
 from ultralytics import YOLO
 
-model = YOLO("../yolov8n.pt")
+model = YOLO("yolov8n.pt")
 
 model.train(
-    data="../datasets/detection/data.yaml",
+    data="datasets/detection/data.yaml",
     epochs=10,
     imgsz=416,
     batch=4,
