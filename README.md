@@ -213,6 +213,13 @@ Training graphs and prediction outputs are available inside the `runs` folder.
 
 ---
 
+## Demo Video (Assignment Recording)
+
+[Assignment Demo Video](https://drive.google.com/file/d/1EfxO9io0nMiHYYdk11jWPqXCT3_5aWXN/view?usp=drive_link)
+
+---
+
+
 ## How to Run the Project
 
 ### Install required libraries:
